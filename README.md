@@ -1,17 +1,9 @@
 # Hi, I'm Sruthi Nukala 👋
 
 ## About Me
-Data Analytics enthusiast passionate about transforming data into actionable insights.
+## About Me
 
-## Skills
-- Excel
-- SQL
-- Power BI
-- Python
-- Power Query
-- Power Pivot
-- DAX
-
+I am a B.Com graduate (2025) with a strong interest in Data Analytics and Business Intelligence. Skilled in Excel, SQL, Power BI, and Python, I enjoy transforming raw data into actionable insights through data analysis, visualization, and dashboard development. By combining business knowledge with analytical skills, I aim to solve real-world business problems using data-driven decision making.
 ## Projects
 ### Sales Performance Dashboard
 Built using Excel, Power Query, Power Pivot and DAX.
