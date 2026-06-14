@@ -1,7 +1,6 @@
 # Hi, I'm Sruthi Nukala 👋
 
 ## About Me
-## About Me
 
 I am a B.Com graduate (2025) with a strong interest in Data Analytics and Business Intelligence. Skilled in Excel, SQL, Power BI, and Python, I enjoy transforming raw data into actionable insights through data analysis, visualization, and dashboard development. By combining business knowledge with analytical skills, I aim to solve real-world business problems using data-driven decision making.
 ## Projects
